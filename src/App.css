@@ -5,9 +5,9 @@ body {
 
 }
 
-header {
+header,h1{
   text-align: center;
-  font-size: x-large;
+  font-size: calc(3em + 3vw);
 
 }
 
